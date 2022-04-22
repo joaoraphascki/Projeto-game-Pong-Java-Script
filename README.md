@@ -1,2 +1,2 @@
-# Projeto-game-Pong-Java-Script
+# Projetos-Games-JavaScript
 Código Game Pong
